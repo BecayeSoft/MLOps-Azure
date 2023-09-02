@@ -1,5 +1,7 @@
 # Azure MLOps (v2) Training
 
+⚠️ Disclaimer: This repository is a copy of the  [mlops-v2-training/](https://github.com/Azure/mlops-v2-training/) by [maggiemhanna](https://github.com/maggiemhanna).
+
 This repo is practice repo for Community IP MLOps In a Day workshop. The goal is to have the participants to build a traing and a deployment pipeline
 ## Repo structure 
 
